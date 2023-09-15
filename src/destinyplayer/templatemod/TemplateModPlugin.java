@@ -1,4 +1,4 @@
-package author.modname;
+package destinyplayer.templatemod;
 
 import com.fs.starfarer.api.BaseModPlugin;
 import com.fs.starfarer.api.Global;

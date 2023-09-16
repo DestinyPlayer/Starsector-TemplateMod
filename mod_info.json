@@ -1,6 +1,6 @@
 {
     "id":"destinyplayer_templatemod", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
-	"name":"Template Mod", # Displayed to the player
+	"name":"     Template Mod", # Displayed to the player
 	"author":"DestinyPlayer",
     "utility":"false",
 	"version":"1.0.0",
